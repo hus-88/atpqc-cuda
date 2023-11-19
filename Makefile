@@ -1,7 +1,7 @@
 ## Please edit according to your environment
 CXX := g++-9
 CUDAPATH := /usr/local/cuda-11.2
-CUDA_GENCODE_FLAG := -arch=compute_75 -code=sm_75
+CUDA_GENCODE_FLAG := -arch=compute_80 -code=sm_80 
 
 ## You don't need to edit the following
 
